@@ -1,0 +1,2 @@
+In part 1 we divided each line segment into 1:3 ratio and 3:1 ratio and used iteration to get points closer and closer to the actual curve. In part 2 we used advanced mathematics and formulas to plot the curve in one go.
+I found that the iterative approach in part 1 simpler as it was much more counter intuitive than that in part 2 because of this it is much more natural to code part 1. For part 2 I was required to just copy the formula so it was simpler to code and thus computationally more simpler than part 1.
